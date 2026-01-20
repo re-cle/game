@@ -13,7 +13,7 @@ Coded full in Java, using JavaFX for visualization.
 
 
 ## Controls:
-W,A,S,D: Movement
-F: Toggle Fullscreen
-Esc: Open Menu
-Arrow Button: Fire
+- W,A,S,D: Movement
+- F: Toggle Fullscreen
+- Esc: Open Menu
+- Arrow Button: Fire
