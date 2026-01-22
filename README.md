@@ -1,4 +1,4 @@
-# game
+# java_game_engine_prototype
 A basic foundation for a game, developed for fun and learning
 
 Coded entirely in Java, using JavaFX for visualization.
